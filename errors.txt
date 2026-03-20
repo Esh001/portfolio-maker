@@ -1,0 +1,6 @@
+src/components/Editor.tsx(4,10): error TS1484: 'ResumeData' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Editor.tsx(4,22): error TS1484: 'Experience' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Editor.tsx(4,34): error TS1484: 'Education' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Editor.tsx(4,45): error TS1484: 'SkillCategory' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Preview.tsx(2,10): error TS1484: 'ResumeData' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/hooks/useResume.ts(2,10): error TS1484: 'ResumeData' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
